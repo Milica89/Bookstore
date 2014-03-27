@@ -1,0 +1,57 @@
+﻿#row2 {
+	width: 30%;
+	text-align: left;
+}
+
+#row3 {
+	font-size: xx-large;
+}
+
+#footer-style {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-top-style: solid;
+	background-color: #CCCCCC;
+	border-top-width: 2px;
+	width: 100%;
+	height: 35px;
+}
+
+#header-style {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	background-color: #CCCCCC;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	width: 100%;
+}
+
+#main {
+	position: absolute;
+	top: 115px;
+	left: 10px;
+	right: 10px;
+}
+
+#table-header {
+	width: 100%;
+}
+
+btnlogin {
+	Width: 90px;
+	height: 22px;
+	margin-left: 10px;
+}
+
+tbpassword {
+	margin-left: 10px;
+}
+
+#pnlloggedin {
+	text-align: right;
+	margin-right: 10px;
+}

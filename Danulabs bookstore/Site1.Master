@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Danulabs_bookstore.Site1" ClientIDMode="Static" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">    
+    <title>Danulabs bookstore</title>
+    <link href="Styles/PageMaster.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.0.3.js"></script>
+    <script src="Scripts/jquery.validate.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header id="header-style">
+            <table id="table-header">
+                <tr>
+                    <td></td>
+                    <td>
+                        <asp:Panel ID="pnlloginform" runat="server">
+                            <asp:TextBox ID="tbloginusername" runat="server" placeholder="username" />
+                            <asp:TextBox ID="tbloginpassword" runat="server" TextMode="Password" placeholder="password" />
+                            <asp:Button ID="btnlogin" runat="server" Text="Login" OnClick="btnlogin_Click" />
+                        </asp:Panel>
+                        <asp:Panel ID="pnlloggedin" runat="server">
+                            <asp:Label ID="lblloggedin" runat="server" />
+                            <asp:LinkButton ID="lbsignout" runat="server" OnClick="lbsignout_Click" Text="Sign out" />
+                        </asp:Panel>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td id="row2">
+                        <asp:Panel ID="pnlsignupform" runat="server">don't have an account? <a href="SignUp.aspx">Sign up!</a></asp:Panel>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="row3">Danulabs bookstore</td>
+                    <td>
+                        <asp:Label ID="lblerror" runat="server" /></td>
+                </tr>
+            </table>
+        </header>
+        <div id="main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer id="footer-style">
+            <label style="float:left; margin-left: 10px;vertical-align: middle ">Copyright 2013 by Danulabs</label>
+            <label style="float:right; margin-right: 10px; vertical-align: middle"><a href="http://www.danulabs.com">www.danulabs.com</a></label>
+        </footer>
+    </form>
+
+
+</body>
+</html>
+

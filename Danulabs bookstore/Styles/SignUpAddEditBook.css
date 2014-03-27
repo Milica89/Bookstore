@@ -1,0 +1,16 @@
+﻿#table-body, #main_div {
+  margin-left: 30%;
+  margin-right: 10%;
+  position:relative;
+
+}
+
+p {
+   width: 100%;
+   right: 50px;
+   text-align: right;
+}
+
+#column1 {
+  width: 150px;
+}

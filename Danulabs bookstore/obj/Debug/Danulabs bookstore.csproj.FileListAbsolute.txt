@@ -1,0 +1,14 @@
+c:\users\zeljko\documents\visual studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\Danulabs bookstore.dll
+c:\users\zeljko\documents\visual studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\Danulabs bookstore.pdb
+c:\users\zeljko\documents\visual studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\obj\Debug\Danulabs bookstore.csprojResolveAssemblyReference.cache
+c:\users\zeljko\documents\visual studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\obj\Debug\Danulabs bookstore.dll
+c:\users\zeljko\documents\visual studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\obj\Debug\Danulabs bookstore.pdb
+C:\Users\Zeljko\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\System.Data.SQLite.dll
+C:\Users\Zeljko\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\System.Data.SQLite.Linq.dll
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\Danulabs bookstore.dll
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\Danulabs bookstore.pdb
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\System.Data.SQLite.dll
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\bin\System.Data.SQLite.Linq.dll
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\obj\Debug\Danulabs bookstore.csprojResolveAssemblyReference.cache
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\obj\Debug\Danulabs bookstore.dll
+C:\Users\Wu\Documents\Visual Studio 2012\Projects\Danulabs bookstore\Danulabs bookstore\obj\Debug\Danulabs bookstore.pdb
